@@ -1,6 +1,7 @@
 ## Hello World, I'm Angelos Boules
 
-[![Angelos's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Angelos-Boules&theme=github-compact)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+![Streak](https://streak-stats.demolab.com/?user=Angelos-Boules)
+
 
 I'm an Associate Software Engineer at Fidelity Investments and a Graduate student at Boston University pursuing a Master of Science in Computer Science and Machine Learning. I currently hold a Bachelor of Science degree in Computer Science as well as a Mathematics minor from the University of Massachusetts Lowell.
 
