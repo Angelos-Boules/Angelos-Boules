@@ -38,5 +38,5 @@ My professional experience focuses on backend software development, cloud comput
 - **Personal:** Identify a real-world problem and brainstorm a machine learning-based solution that would be beneficial to real users, building and deploying a functional application for it.
 
 ## Connect With Me
-[My LinkedIn Profile](https://www.linkedin.com/in/Angelos-Boules)
+[My LinkedIn Profile](https://www.linkedin.com/in/Angelos-Boules) <br/>
 [Email Me](boulesangelos@gmail.com)
