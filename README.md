@@ -1,5 +1,5 @@
 ## Hello World, I'm Angelos Boules
-
+![Activity](https://github-readme-activity-graph.vercel.app/graph?username=YOUR-USERNAME)
 I'm an Associate Software Engineer at Fidelity Investments and a Graduate student at Boston University pursuing a Master of Science in Computer Science and Machine Learning. I currently hold a Bachelor of Science degree in Computer Science as well as a Mathematics minor from the University of Massachusetts Lowell.
 
 My professional experience focuses on backend software development, cloud computing, and building scalable systems. I'm interested in the intersection of machine learning and artificial intelligence with embedded systems and robotics.
