@@ -36,4 +36,5 @@ My professional experience focuses on backend software development, cloud comput
 
 ## Connect With Me
 [My LinkedIn Profile](https://www.linkedin.com/in/Angelos-Boules) <br/>
-[Email Me](boulesangelos@gmail.com)
+[Email Me](boulesangelos@gmail.com) <br/>
+[Resume](https://github.com/Angelos-Boules/Angelos-Boules/blob/master/Angelos_Boules_Resume.pdf)
